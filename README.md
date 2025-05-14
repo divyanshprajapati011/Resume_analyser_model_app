@@ -1,1 +1,0 @@
-# resume_analyser_model_app
